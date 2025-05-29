@@ -33,3 +33,8 @@ imports =
 doom sync && doom doctor
 ```
 (note: currently there's 3 warnings for python, still works just fine, just missing nosetests, pytest, & setuptools FIXME)
+
+5. Send it
+```
+doom
+```
